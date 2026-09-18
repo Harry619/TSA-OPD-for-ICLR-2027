@@ -1,7 +1,7 @@
 # TSA-OPD-for-ICLR-2027
 Controlled study of routing rules for entropy-aware on-policy distillation: coverage transfer is budget-limited, not routing-limited. verl-based training, evaluation, and analysis code.
 
-# Precision or Coverage? — Code Repository (Anonymous)
+# Precision or Coverage?
 
 Anonymous repository accompanying the ICLR 2026 submission
 **"Precision or Coverage? Characterizing the Trade-off in Entropy-Aware
